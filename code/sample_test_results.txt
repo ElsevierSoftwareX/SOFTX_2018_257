@@ -1,0 +1,11 @@
+>> Input Parameters File: InputHelixParams.txt
+>> Parameters:
+>> Angle=60.000, Centerline=10.000
+>> Cf=40.000
+>> Ef=2000.000, Em=0.250
+>> #Slices=10, #Radians=11
+The rounded content is: 40
+sizeof(K_total)=1983x1983 -> 30.00 Mbytes
+The effective fascicle modulus is: 493.726
+The effective Poisson's ratio is: 5.6838
+The effective normalized moment is: 2447.24

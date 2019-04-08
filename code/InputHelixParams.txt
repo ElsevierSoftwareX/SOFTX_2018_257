@@ -1,0 +1,5 @@
+Angle = 60
+Center =10
+FiberContent = 40
+Ef = 2000
+Em = 0.25
